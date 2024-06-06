@@ -1,5 +1,8 @@
-## Hello World
+## Hello World! ✨
 I am Sherriff Kadiri and I'm learning useful skills to make powerful tools to build new and interesting things!
+
+I'm currently learning about hyperdimensional computing!
+You can reach me at: Sherriff.Kadiri@outlook.com
 <!--
 **KingSherriff/KingSherriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
