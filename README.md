@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World
+I am Sherriff Kadiri and I'm learning useful skills to make powerful tools to build new and interesting things!
 <!--
 **KingSherriff/KingSherriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
