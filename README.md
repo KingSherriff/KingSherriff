@@ -2,6 +2,10 @@
 I am Sherriff Kadiri and I'm learning useful skills to make powerful tools to build new and interesting things!
 
 - I'm currently learning about hyperdimensional computing!
+  - If you're interested in the subject and want to dive right into it witth an easy to understand explanation, then I highly recommend the following article by Michiel Stock.
+    - https://michielstock.github.io/posts/2022/2022-10-04-HDVtutorial/
+  - If you want to delve deeper into some of the theoretical and mathematical concepts behind the subject then I'd currently recommend the following paper by Anthony Thomas, Sanjoy Dasgupta, and Tajana Rosing.
+    - https://dl.acm.org/doi/pdf/10.1613/jair.1.12664
 - You can reach me at: Sherriff.Kadiri@outlook.com
 <!--
 **KingSherriff/KingSherriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
