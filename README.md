@@ -6,7 +6,7 @@
 
 ## 🧭 My Focus
 
-I'm focused on developing robust, production-aware machine learning systems, with a particular interest in **Computer Vision** and **Natural Language Processing**. My goal is to transform theoretical models into reliable applications, especially in high-stakes domains like healthcare.
+I'm focused on developing robust, production-aware machine learning systems, with a particular interest in **Computer Vision** and **Simulation Based Learning**. My goal is to transform theoretical models into reliable applications, especially in high-stakes domains like healthcare.
 
 ---
 
