@@ -12,10 +12,11 @@ I'm focused on developing robust, production-aware machine learning systems, wit
 
 ## 🚀 Featured Projects
 
-These projects represent my journey from foundational concepts to full-stack ML implementation.
+These projects represent my journey from foundational concepts to full-stack software and ML implementations.
 
 | Project | Domain | Key Technologies | What I Learned |
 | :--- | :--- | :--- | :--- |
+| **[Small Business Product Management App](https://github.com/KingSherriff/SBApp-Portfolio)** *(private – contact for access)* | **Mobile App Development / Business** | Flutter, Riverpod, Firebase (Auth, Firestore), Docker, GitHub Actions | How to build a production-ready mobile app with MVVM architecture, setting up a containerized Firebase emulator suite for local development, and implementing CI/CD with GitHub Actions for Flutter projects.
 | **[Breast Cancer Histology Classifier](https://github.com/KingSherriff/Binary-and-Multi-label-image-classification-using-cnn)** | **Medical Computer Vision** | TensorFlow, CNN, Data Pipelines, Model Debugging | The critical importance of architecture validation and building reproducible training pipelines from complex, imbalanced medical data. |
 | **[Metastatic Cancer Detection](https://github.com/KingSherriff/CNN-Cancer-Detection-Kaggle-Mini-Project)** | Medical Image Analysis | TensorFlow, CNN, Transfer Learning | How to effectively use regularization (BatchNorm, Dropout) to combat overfitting and improve model generalization on large-scale image datasets. |
 | **[Monet-Style Image Generator (GAN)](https://github.com/KingSherriff/Im-Something-of-a-Painter)** | **Generative AI** | TensorFlow, DCGAN, LSGAN | The practical challenges of training GANs (mode collapse, instability) and the empirical differences between loss functions like Minimax and Least Squares. |
